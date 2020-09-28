@@ -1,0 +1,17 @@
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.exe
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.deps.json
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.runtimeconfig.json
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.runtimeconfig.dev.json
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.dll
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\bin\Debug\netcoreapp3.1\RoverNavigate.pdb
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.csprojAssemblyReference.cache
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.AssemblyInfoInputs.cache
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.AssemblyInfo.cs
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.dll
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.pdb
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.Form1.resources
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.FormRoverControl.resources
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.csproj.GenerateResource.cache
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.csproj.CoreCompileInputs.cache
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.genruntimeconfig.cache
+C:\Projects\HepsiburadaStudy\RoverNavigate\RoverNavigate\obj\Debug\netcoreapp3.1\RoverNavigate.Properties.Resources.resources
